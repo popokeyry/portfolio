@@ -118,7 +118,7 @@ section ul {
 }
 
 section {
-  background-color: oklch(97% 0.01 225);
+  background-color: oklch(from var(--color-accent) 95% 5% 225.203);
   border-radius: 1em;
   padding: 1.5em;
   margin-block: 1em;
