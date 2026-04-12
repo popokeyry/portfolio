@@ -99,7 +99,6 @@ section {
 }
 
 section h2 {
-  color: oklch(from var(--color-accent) 95% 5% 225.203);
   border-bottom: 2px solid var(--color-accent);
   padding-bottom: 0.2em;
   margin-bottom: 0.5em;
@@ -116,4 +115,11 @@ section p {
 
 section ul {
   margin-top: 0.3em; 
+}
+
+section {
+  background-color: oklch(97% 0.01 225);
+  border-radius: 1em;
+  padding: 1.5em;
+  margin-block: 1em;
 }
