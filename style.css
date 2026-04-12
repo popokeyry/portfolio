@@ -7,3 +7,9 @@ body {
   margin-inline: auto;
   padding: 1em; 
 }
+
+img {
+  max-width: 100%;
+  max-height: auto;
+
+}
