@@ -14,7 +14,7 @@ body {
 
 img {
   max-width: 50%;
-  max-height: auto;
+  height: auto;
 
 }
 
@@ -69,6 +69,7 @@ button[type="submit"] {
 .projects {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+  gap: 1em;
 }
 
 .projects article {
