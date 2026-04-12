@@ -13,3 +13,11 @@ img {
   max-height: auto;
 
 }
+
+nav {
+  display: flex;
+}
+
+nav a {
+  flex: 1;
+}
