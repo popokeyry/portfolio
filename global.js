@@ -21,7 +21,7 @@ let pages = [
   { url: 'projects/', title: 'Projects' },
   { url: 'contact/', title: 'Contact' },
   { url: 'resume/', title: 'Resume' },
-  { url: 'https://github.com', title: 'GitHub', external: true }, 
+  { url: 'https://github.com/popokeyry', title: 'GitHub', external: true }, 
 ];
 
 let nav = document.createElement('nav');
