@@ -1,62 +1,74 @@
 [
     {
-        "title": "Lorem ipsum dolor sit.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolorum odio modi perferendis est obcaecati ipsa voluptatum temporibus delectus. Nobis officia sint dolorum omnis! Excepturi quas quibusdam laborum dignissimos. Veniam!"
+        "title": "Organic Foods: Majority Are Still Ultra Processed",
+        "year": 2026,
+        "image": "images/organic_vs_nonorganic copy.png",
+        "description": "Expository visualization of the proportion of organic foods that are classified as ultra processed. Data is sourced from the Open Food Facts database and the NOVA classification system."
     },
     {
-        "title": "Dicta hic recusandae explicabo.",
+        "title": "SoCalGuessr Neural Network Predictive Model",
+        "year": 2026,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Nam ipsa dicta atque rem, possimus at culpa sint accusamus molestias excepturi aspernatur vel? Perspiciatis numquam et reiciendis molestiae itaque distinctio tempore culpa, eligendi architecto doloribus non officiis, tempora dolores!"
+        "description": "A convolutional neural network model using PyTorch predicting a specific city in Southern California achieving ~91% test accuracy. This model is fine-tuned from a pre-trained ResNet-18 model."
     },
     {
-        "title": "Enim quod porro minima?",
+        "title": "Rent and Public Transportation Proximity Analysis in San Diego",
+        "year": 2026,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Earum, odio? Hic cupiditate voluptas voluptate iste nobis ipsum et quisquam magnam dolores in, error amet accusamus quasi aliquam neque cumque quod, suscipit unde deleniti? Animi porro quos quisquam unde?"
+        "description": "Exploratory data analysis of the relationship between rent prices of a residence and its proximity to public transportation."
     },
     {
-        "title": "Minima facere eum itaque!",
+        "title": "League of Legends Analysis",
+        "year": 2025,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Fuga ea quidem vitae cum ad! Repellendus commodi pariatur sed in labore. Doloremque esse ipsum, praesentium sed unde fuga, nostrum amet ut totam maxime eveniet quaerat sequi, dolorem voluptate delectus."
+        "description": "An exploratory data analysis based on 100000 rows of League of Legends match data. Analysis includes missingness dependency, bivariate analyses, engineering features, designing a predictive model, and conducting model fairness tests."
     },
     {
-        "title": "Alias cum voluptate tenetur?",
+        "title": "Placeholder Project",
+        "year": 2024,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Laboriosam, culpa. Culpa nemo incidunt quia placeat explicabo deleniti eos sint delectus esse perferendis excepturi nam, at harum eaque eveniet odit deserunt eligendi? Vel, hic cupiditate nesciunt magnam soluta cum."
+        "description": "Love this project it is so cool!"
     },
     {
-        "title": "Veniam cupiditate doloremque reiciendis!",
+        "title": "Another Placeholder Project",
+        "year": 2024,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Voluptatem libero reiciendis rerum temporibus vel voluptates officia molestiae culpa voluptate tempore, aliquam iusto necessitatibus dicta dolorum maxime obcaecati architecto perspiciatis quos laudantium vero recusandae dolor, at eveniet sequi? Distinctio?"
+        "description": "e=mc squared is so cool"
     },
     {
-        "title": "Facere eum perspiciatis tempora!",
+        "title": "Yet Another Placeholder Project",
+        "year": 2023,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Placeat voluptatum mollitia dolore accusamus totam eos exercitationem sequi corporis, culpa iusto debitis iste eum ipsam, aut ducimus, qui sit illum fugiat dicta officia temporibus ratione reiciendis! Soluta, nam voluptatum?"
+        "description": "No project data is available."
     },
     {
-        "title": "Natus exercitationem minima voluptate!",
+        "title": "This Project is Empty",
+        "year": 2023,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Velit voluptatum assumenda quas repellendus perferendis ipsam fugit? Voluptatum, hic expedita officia totam consectetur modi doloremque debitis inventore facere. Similique quaerat dolor dolores, perspiciatis nostrum vero nam consequatur tempore earum."
+        "description": "Empty"
     },
     {
-        "title": "Est nostrum placeat beatae!",
+        "title": "This is also empty",
+        "year": 2022,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Totam, accusamus eum consequuntur tempore officia quaerat eligendi impedit. Voluptatibus molestiae rem nobis aut voluptatem. Possimus, eum nam quibusdam molestias fugiat doloribus nesciunt suscipit voluptas alias deserunt iure sapiente! Molestias!"
+        "description": "Also empty project"
     },
     {
-        "title": "Voluptatibus in dolore accusantium.",
+        "title": "Love This Project",
+        "year": 2021,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Corporis non laboriosam exercitationem adipisci ut ipsa incidunt obcaecati maiores, doloribus, molestias officia voluptate vero rerum? Laboriosam qui cupiditate ipsum cumque minus temporibus praesentium! Omnis dolores architecto laudantium veniam quasi!"
+        "description": "N/A"
     },
     {
-        "title": "Enim in expedita natus!",
+        "title": "No Project Found",
+        "year": 2020,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Praesentium itaque veniam incidunt quo explicabo. Ipsum accusantium voluptatem veritatis similique. Quos rem suscipit quo cupiditate aliquid voluptate sequi debitis molestiae. Dolorum temporibus eum quia aliquid optio, reiciendis obcaecati a!"
+        "description": "This is not a real project, just a placeholder for testing purposes."
     },
     {
-        "title": "Magni necessitatibus dolorum laudantium!",
+        "title": "This is the last project",
+        "year": 2019,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Cum soluta aperiam ratione atque repudiandae aut, deserunt, error alias obcaecati labore quam perferendis reiciendis repellat est cumque dolore facilis eum! Molestiae iure assumenda sapiente est at nesciunt, omnis deserunt."
+        "description": "I took Latin in high school and a lot of the placeholder words are gibberish"
     }
 ]
